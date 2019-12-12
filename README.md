@@ -11,7 +11,7 @@ Second Prize(1500000): 6 Red and 0 Blue.
 Third Prize(3000): 5 Red and 1 Blue.  
 Fourth Prize(200): 5 Red and 0 Blue | 4 Red and 1 blue  
 Fifth Prize(10): 4 Red and 0 Blue | 3 Red and 1 Blue  
-Sixth Prize(5): 3 | 2 | 1 Red and 1 Blue  
+Sixth Prize(5): 2 | 1 | 0 Red and 1 Blue  
 
 # Simulation Results
 The millionaire bought 657293 lottery.  
